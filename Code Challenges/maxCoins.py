@@ -21,3 +21,4 @@ def maxCoins(matrix):
 
 if __name__ == "__main__":
     print(maxCoins([[0,3,1,1],[2,0,0,4],[1,5,3,1]]))
+    print(maxCoins([[0,0,0,0],[0,0,0,0],[0,0,0,0]]))
